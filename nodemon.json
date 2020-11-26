@@ -1,0 +1,11 @@
+{
+    "env": {
+        "SQL_HOST":"localhost",
+        "SQL_PORT":"3306",
+        "SQL_USER": "root",
+        "SQL_PASSWORD": "",
+        "SQL_DATABASE": "basidia",
+        "HOST" : "http://localhost:4000",
+        "JWT_KEY":"secret"
+    }
+}
